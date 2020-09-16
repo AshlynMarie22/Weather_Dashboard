@@ -173,6 +173,10 @@ function getStorage() {
     }
     console.log(savedInput);
     var newSearchButton = $("<button>").text(savedInput);
-    newSearchButton.attr({id: "new-search-button"});
+    newSearchButton.attr({id: "new-search-button", class: "rounded"});
     $("#search-section").append(newSearchButton);
+    $(newSearchButton).on("click", function () {
+        $(".city-name").val(savedInput); 
+        return
+       });
   }
