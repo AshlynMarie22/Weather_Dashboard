@@ -44,7 +44,6 @@ $("button").on("click", function () {
     //lattitude and longitude for the UV forecast:
     var lat = response.coord.lat;
     var lon = response.coord.lon;
-    console.log(lat);
 
     //UV Forecast:
     var uvURL =
