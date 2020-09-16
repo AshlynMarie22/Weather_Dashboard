@@ -57,16 +57,16 @@ Then right click anywhere in the html file and select "Open in Default Browser":
 Website URL: 
 https://ashlynmarie22.github.io/Weather_Dashboard/ 
 
-![screenshot2](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-15+at+11.56.00+PM.png)
+![screenshot2](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-16+at+12.43.59+AM.png)
 
 
 ## How to Use:
 1. Type in the city you would like to search for and click enter:
 
-![firststep](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-15+at+11.55.46+PM.png)
+![firststep](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-16+at+12.43.18+AM.png)
 
 2. Continue to search cities for their weather forecast:
-![secondstep](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-15+at+11.57.32+PM.png)
+![secondstep](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-16+at+1.13.16+AM.png)
 
 3. To revist a city previously viewed, click the city and then click the search button again. 
 
