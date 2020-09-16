@@ -1,0 +1,73 @@
+
+.row{
+    text-align: left;
+
+}
+#search-section{
+    background-color: lightgray;
+    align-content: left;
+    float: left;
+    margin: 0;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+#city-name{
+    margin-bottom: 10px;
+}
+#fas fa-search{
+    background-color: blue;
+}
+
+#weather-appear-here-box{
+    border: lightgrey;
+    border-style: solid;
+    padding-bottom: 40px;
+    border-width: 1px;
+    margin-right: 10%;
+    max-width: 900px;
+    margin-bottom: 20px;
+}
+.uv-div-green{
+    background-color: green;
+    border: green;
+    color: white;
+
+}
+.uv-div-yellow{
+    background-color: yellow;
+    border: yellow;
+}
+.uv-div-orange{
+    background-color: orange;
+    border: orange;
+    color: white;
+}
+
+.uv-div-red{
+    background-color:red;
+    border: red;
+    color: white;
+}
+.uv-div-purple{
+    background-color: violet;
+    border: violet;
+    color: white;
+}
+
+#five-div{
+    border-color: #007bff;
+    background-color: #007bff;
+    color: white;
+    border-style: solid;
+    float: left;
+    border-width: 1px;
+    margin: 10px;
+    padding: 5px;
+    padding-right: 10px;
+    min-width: 130px;
+}
+#new-search-button{
+    width:  200px;
+    text-align: left;
+
+}
